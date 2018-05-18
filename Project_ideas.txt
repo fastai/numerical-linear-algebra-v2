@@ -1,0 +1,26 @@
+Suggestions for Writing Topics:
+
+- Algorithms to research and implement:
+  -- Cholesky Factorization
+  -- Gauss-Legendre Quadrature
+  -- Conjugate Gradient
+  -- Rayleigh Quotient Iteration 
+  -- Power Method with shifts and deflation
+  -- QR algorithm with Wilkinson shifts
+  -- Golub-Kahan bidiagonalization with Householder reflectors
+  -- Divide-and-conquer eigenvalue algorithm (Cuppen)
+  -- GMRES (generalized minimal residuals)
+  -- Sparse NMF
+  -- Monte Carlo Methods
+  -- Feel free to ask me about additional ideas
+  
+- Speed up an algorithm of your choice using one or more of...:
+  -- The GPU with PyTorch
+  -- Numba or Cython
+  -- Parallelization
+  -- Randomized projections
+
+- Find an interesting paper (related to linear algebra). Summarize it and implement it. Some interesting ideas in:
+  -- https://arxiv.org/abs/1608.04481
+
+- Look at the Matrix Factorization Jungle for ideas: https://sites.google.com/site/igorcarron2/matrixfactorizations
