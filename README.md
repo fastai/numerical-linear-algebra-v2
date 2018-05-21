@@ -49,17 +49,20 @@ We will use the newsgroups dataset to try to identify the topics of different po
   - [Timing Comparison](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/04-Randomized-SVD.ipynb#Timing-Comparison)
   - [Math Details](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/04-Randomized-SVD.ipynb#Math-Details)
   - [Random SVD for Topic Modeling](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/04-Randomized-SVD.ipynb#Part-3:-Random-SVD-for-Topic-Modeling)
-  
-### [5. Compressed Sensing of CT Scans with Robust Regression](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/05-Compressed-Sensing-of-CT-Scans-with-Robust-Regression.ipynb)  
+
+### [5. LU Factorization](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/05-LU-factorization.ipynb)
+ - [Gaussian Elimination](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/05-LU-factorization.ipynb#Gaussian-Elimination)
+ - [Stability of LU](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/05-LU-factorization.ipynb#Stability)
+  - [LU factorization with Pivoting](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/05-LU-factorization.ipynb#LU-factorization-with-Partial-Pivoting)
+  - [History of Gaussian Elimination](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/05-LU-factorization.ipynb#History-of-Gaussian-Elimination)
+  - [Block Matrix Multiplication](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/05-LU-factorization.ipynb#Block-Matrices)
+
+### [6. Compressed Sensing of CT Scans with Robust Regression](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/06-Compressed-Sensing-of-CT-Scans-with-Robust-Regression.ipynb)  
 Compressed sensing is critical to allowing CT scans with lower radiation-- the image can be reconstructed with less data.  Here we will learn the technique and apply it to CT images.
-  - [Stability of LU](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/3.%20Background%20Removal%20with%20Robust%20PCA.ipynb#Stability)
-  - [LU factorization with Pivoting](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/3.%20Background%20Removal%20with%20Robust%20PCA.ipynb#LU-factorization-with-Partial-Pivoting)
-  - [History of Gaussian Elimination](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/3.%20Background%20Removal%20with%20Robust%20PCA.ipynb#History-of-Gaussian-Elimination)
-  - [Block Matrix Multiplication](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/3.%20Background%20Removal%20with%20Robust%20PCA.ipynb#Block-Matrices)
-  - [Broadcasting](http://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/4.%20Compressed%20Sensing%20of%20CT%20Scans%20with%20Robust%20Regression.ipynb#Broadcasting)
-  - [Sparse matrices](http://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/4.%20Compressed%20Sensing%20of%20CT%20Scans%20with%20Robust%20Regression.ipynb#Sparse-Matrices-(in-Scipy))
-  - [CT Scans and Compressed Sensing](http://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/4.%20Compressed%20Sensing%20of%20CT%20Scans%20with%20Robust%20Regression.ipynb#Sparse-Matrices-(in-Scipy))
-  - [L1 and L2 regression](http://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/4.%20Compressed%20Sensing%20of%20CT%20Scans%20with%20Robust%20Regression.ipynb#Regresssion)
+  - [Broadcasting](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/06-Compressed-Sensing-of-CT-Scans-with-Robust-Regression.ipynb#Broadcasting)
+  - [Sparse matrices](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/06-Compressed-Sensing-of-CT-Scans-with-Robust-Regression.ipynb#Sparse-Matrices-(in-Scipy))
+  - [CT Scans and Compressed Sensing](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/06-Compressed-Sensing-of-CT-Scans-with-Robust-Regression.ipynb#Today:-CT-scans)
+  - [L1 and L2 regression](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/06-Compressed-Sensing-of-CT-Scans-with-Robust-Regression.ipynb#Regresssion)
 
 ### [6. Predicting Health Outcomes with Linear Regressions]() 
   - [Linear regression in sklearn]()
