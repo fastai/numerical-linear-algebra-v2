@@ -43,7 +43,7 @@ We will use the newsgroups dataset to try to identify the topics of different po
   - [Intro to PyTorch](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/03-Topic-Modeling-with-NMF-and-SVD.ipynb#PyTorch)
   - [Truncated SVD](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/03-Topic-Modeling-with-NMF-and-SVD.ipynb#Truncated-SVD)
   
-### [4. Randomized SVD](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/04-Randomized-SVD.ipynb) ([Video 3](https://www.youtube.com/watch?v=C8KEtrWjjyo&index=3&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
+### [4. Randomized SVD](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/04-Randomized-SVD.ipynb) 
   - [Random Projections with word vectors](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/04-Randomized-SVD.ipynb#Part-1:-Random-Projections-(with-word-vectors))
   - [Random SVD for Background Removal](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/04-Randomized-SVD.ipynb#Part-2:-Random-SVD-for-Background-Removal)
   - [Timing Comparison](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/04-Randomized-SVD.ipynb#Timing-Comparison)
@@ -67,7 +67,7 @@ Compressed sensing is critical to allowing CT scans with lower radiation-- the i
   - [Speeding up with Numba]()
   - [Regularization and Noise]()
 
-### [7. How to Implement Linear Regression]
+### [7. How to Implement Linear Regression]()
   - [How did Scikit Learn do it?]()
   - [Naive solution]()
   - [Normal equations and Cholesky factorization]()
@@ -78,7 +78,7 @@ Compressed sensing is critical to allowing CT scans with lower radiation-- the i
   - [Full vs Reduced Factorizations]()
   - [Matrix Inversion is Unstable]()
 
-### [8. PageRank with Eigen Decompositions](http://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra/blob/master/nbs/7.%20PageRank%20with%20Eigen%20Decompositions.ipynb) ([Video 9](https://www.youtube.com/watch?v=AbB-w77yxD0&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY&index=9) and [Video 10](https://www.youtube.com/watch?v=1kw8bpA9QmQ&index=10&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY))
+### [8. PageRank with Eigen Decompositions]()
 We have applied SVD to topic modeling, background removal, and linear regression. SVD is intimately connected to the eigen decomposition, so we will now learn how to calculate eigenvalues for a large matrix.  We will use DBpedia data, a large dataset of Wikipedia links, because here the principal eigenvector gives the relative importance of different Wikipedia pages (this is the basic idea of Google's PageRank algorithm).  We will look at 3 different methods for calculating eigenvectors, of increasing complexity (and increasing usefulness!).
   - [SVD]()
   - [DBpedia Dataset]()
@@ -87,7 +87,7 @@ We have applied SVD to topic modeling, background removal, and linear regression
   - [Two-phase approach to finding eigenvalues]() 
   - [Arnoldi Iteration]()
 
-### [9. Implementing QR Factorization]
+### [9. Implementing QR Factorization]()
   - [Gram-Schmidt]()
   - [Householder]()
   - [Stability Examples]()
