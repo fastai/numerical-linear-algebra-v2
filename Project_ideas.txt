@@ -19,6 +19,18 @@ Suggestions for Writing Topics:
   -- Numba or Cython
   -- Parallelization
   -- Randomized projections
+  
+- Implement a randomized data structure or randomized algorithm and talk about its applications:
+  -- Bloom Filters
+  -- HyperLogLog
+  -- Locality-Sensitive Hashing
+  -- Skip Lists
+  -- Count-min sketch
+  -- Min-hash
+  -- Karger's algorithm (minimum cut of a graph)
+  -- Randomized regression
+  -- Randomized LU decomposition (Gaussian Elimination)
+
 
 - Find an interesting paper (related to linear algebra). Summarize it and implement it. Some interesting ideas in:
   -- https://arxiv.org/abs/1608.04481
