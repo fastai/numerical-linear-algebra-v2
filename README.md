@@ -64,36 +64,36 @@ Compressed sensing is critical to allowing CT scans with lower radiation-- the i
   - [CT Scans and Compressed Sensing](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/06-Compressed-Sensing-of-CT-Scans-with-Robust-Regression.ipynb#Today:-CT-scans)
   - [L1 and L2 regression](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/06-Compressed-Sensing-of-CT-Scans-with-Robust-Regression.ipynb#Regresssion)
 
-### [7. Predicting Health Outcomes with Linear Regressions]() 
-  - [Linear regression in sklearn]()
-  - [Polynomial Features]()
-  - [Speeding up with Numba]()
-  - [Regularization and Noise]()
+### [7. Predicting Health Outcomes with Linear Regressions](https://github.com/fastai/numerical-linear-algebra-v2/blob/master/nbs/07-Health-Outcomes-with-Linear-Regression.ipynb) 
+  - Linear regression in sklearn
+  - Polynomial Features
+  - Speeding up with Numba
+  - Regularization and Noise
 
-### [8. How to Implement Linear Regression]()
-  - [How did Scikit Learn do it?]()
-  - [Naive solution]()
-  - [Normal equations and Cholesky factorization]()
-  - [QR factorization]()
-  - [SVD]()
-  - [Timing Comparison]()
-  - [Conditioning & Stability]()
-  - [Full vs Reduced Factorizations]()
-  - [Matrix Inversion is Unstable]()
+### [8. How to Implement Linear Regression](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/08-How-to-Implement-Linear-Regression.ipynb)
+  - How did Scikit Learn do it?
+  - Naive solution
+  - Normal equations and Cholesky factorization
+  - QR factorization
+  - SVD
+  - Timing Comparison
+  - Conditioning & Stability
+  - Full vs Reduced Factorizations
+  - Matrix Inversion is Unstable
 
-### [9. PageRank with Eigen Decompositions]()
+### [9. PageRank with Eigen Decompositions](https://github.com/fastai/numerical-linear-algebra-v2/blob/master/nbs/09-PageRank-with-Eigen-Decompositions.ipynb)
 We have applied SVD to topic modeling, background removal, and linear regression. SVD is intimately connected to the eigen decomposition, so we will now learn how to calculate eigenvalues for a large matrix.  We will use DBpedia data, a large dataset of Wikipedia links, because here the principal eigenvector gives the relative importance of different Wikipedia pages (this is the basic idea of Google's PageRank algorithm).  We will look at 3 different methods for calculating eigenvectors, of increasing complexity (and increasing usefulness!).
-  - [SVD]()
-  - [DBpedia Dataset]()
-  - [Power Method]()
-  - [QR Algorithm]()
-  - [Two-phase approach to finding eigenvalues]() 
-  - [Arnoldi Iteration]()
+  - SVD  
+  - DBpedia Dataset
+  - Power Method
+  - QR Algorithm
+  - Two-phase approach to finding eigenvalues 
+  - Arnoldi Iteration
 
-### [10. Implementing QR Factorization]()
-  - [Gram-Schmidt]()
-  - [Householder]()
-  - [Stability Examples]()
+### [10. Implementing QR Factorization](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/10-Implementing-QR-Factorization.ipynb)
+  - Gram-Schmidt
+  - Householder
+  - Stability Examples
 
 <hr>
 
