@@ -8,12 +8,12 @@ You can find the 2017 version of the course [here](https://github.com/fastai/num
 
 ## Table of Contents
 The following listing links to the notebooks in this repository, rendered through the [nbviewer](http://nbviewer.jupyter.org) service.  Topics Covered:
-### [0. Course Logistics](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb) 
-  - [My background](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb#Intro)
-  - [Teaching Approach](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb#Teaching)
-  - [Importance of Technical Writing](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb#Writing-Assignment)
-  - [List of Excellent Technical Blogs](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb#Excellent-Technical-Blogs)
-  - [Linear Algebra Review Resources](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/0.%20Course%20Logistics.ipynb#Linear-Algebra)
+### [0. Course Logistics](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/00-Course-Logistics.ipynb) 
+  - [My background](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/00-Course-Logistics.ipynb#Intro)
+  - [Teaching Approach](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/00-Course-Logistics.ipynb#Teaching)
+  - [Importance of Technical Writing](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/00-Course-Logistics.ipynb#Writing-Assignment)
+  - [List of Excellent Technical Blogs](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/00-Course-Logistics.ipynb#Excellent-Technical-Blogs)
+  - [Linear Algebra Review Resources](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/00-Course-Logistics.ipynb#Linear-Algebra)
   
 
 ### [1. Why are we here?](https://nbviewer.jupyter.org/github/fastai/numerical-linear-algebra-v2/blob/master/nbs/01-Why-are-we-here.ipynb) 
